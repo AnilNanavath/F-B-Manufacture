@@ -4,4 +4,9 @@ Developed an Interactive Dashboard for Food & Beverage Services (Opportunity Ana
 
 **Food_services.docx-EmbeddedFile**: 
 
+## Screenshots
+
+![App Screenshot](screenshots/Screenshot_2024-08-11_143057.png)
+
+
 

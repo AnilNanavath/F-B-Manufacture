@@ -1,4 +1,4 @@
-# F & B-Manufacture
+# F&B-Manufacture
 ## Analysis-PowerBi-Project
 Developed an Interactive Dashboard for Food & Beverage Services (Opportunity Analysis for a Leading Food and Beverage Manufacturer)
 
@@ -40,7 +40,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 ## Conclusion
 * With his analytical mindset, Shaun should focus on non-commercial segments where he can create new opportunities and develop contracts to drive company growth, particularly in the hospitality and education sectors.
 * Shaun's company currently holds a 50% share in the restaurant business, and maintaining this will be crucial for the future growth of the F&B company.
-
+* Shaun has a secondary adjacent opportunity in the retail business. Out of 750 stores, 513 are generating an average of 28% revenue from grocery stores. Europe and North America are the two major regions where future growth for the business is most promising.
 
 
 

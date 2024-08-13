@@ -30,7 +30,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 ## Dashboard
 ![PowerBiDashboard](https://github.com/user-attachments/assets/9d54cce4-b86c-4f23-bca7-8434e3db39c4)
 
-## Project Insight
+## Project Insights
 * The dashboard aggregates data from multiple sources, including retail and restaurant sales, categorized by annual sales and non-commercial opportunities.
 * Key metrics such as Total Sales, Average Percentage, Total Restaurants, Beverage and Food Purchases, and the total number of states covered are highlighted at the top, providing a quick overview of the business's overall performance.
 * Out of 750 unique restaurants, Shaun's company maintains strong relationships with 466 restaurants that generate sales revenue of <=$500,000 and least sales generating by uncouded by count of 2 restaurants.
@@ -38,6 +38,9 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 * in Non-Commerical opportunity shaun need to focus on hospitality and city of Boston,Worcester and avg >2000 meals per day
 
 ## Conclusion
+* shaun with analytic aptitude of mind set he generally need to focus on non-comerical segements where he can create new opportunities and contracts develop to growth is company sales and fcus on hospitality and schools
+* shaun company holding 50% of share on restaurants business and it should be mainatained future grwoth of F&B company
+
 
 
 

@@ -36,6 +36,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 * Out of 750 unique restaurants, Shaun's company maintains strong relationships with 466 restaurants that generate sales revenue of <=$500,000 and least sales generating by uncouded by count of 2 restaurants.
 * in retail business category 513 stores generating sales of 1.27M and 51% of its share to shaun company and mostly store we seen in NorthAmerica
 * in Non-Commerical opportunity shaun need to focus on hospitality and city of Boston,Worcester and avg >2000 meals per day
+* in overview of dashboard retail and restaurant segements two strong future running opportunities to shaun companys
 
 
 

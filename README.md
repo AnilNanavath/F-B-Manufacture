@@ -38,9 +38,8 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 * in Non-Commerical opportunity shaun need to focus on hospitality and city of Boston,Worcester and avg >2000 meals per day
 
 ## Conclusion
-* shaun with analytic aptitude of mind set he generally need to focus on non-comerical segements where he can create new opportunities and contracts develop to growth is company sales and fcus on hospitality and schools
-* shaun company holding 50% of share on restaurants business and it should be mainatained future grwoth of F&B company
-
+* With his analytical mindset, Shaun should focus on non-commercial segments where he can create new opportunities and develop contracts to drive company growth, particularly in the hospitality and education sectors.
+* Shaun's company currently holds a 50% share in the restaurant business, and maintaining this will be crucial for the future growth of the F&B company.
 
 
 

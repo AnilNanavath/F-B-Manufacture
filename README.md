@@ -24,7 +24,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 -	I would like the analyses to be simple, intuitive as well as give me a picture at different levels of geographic granularity as well as by different business segments. In short, “it should the tell a story around where are our biggest opportunities”
 ## Process
 * Created an interactive dashboard to display and explore sales opportunities for an F&B manufacturer across three distinct business segments on Retail,commercial,Restaurant
-* showcasing deatils of requirment into by using various visulization tools (Kpi's,slicers,piechart,barcharts,clusterd bar chart,maps)
+* showcasing deatils of requirment into by using various visulization tools (Kpi's,slicers,piechart,barcharts,clusterd bar chart,maps,decompositiontree)
 * Utilized advanced parameters for drilling down into worksheets and applied customizations through filters and slicers. 
 
 ## Dashboard

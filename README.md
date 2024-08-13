@@ -31,8 +31,8 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 ![PowerBiDashboard](https://github.com/user-attachments/assets/9d54cce4-b86c-4f23-bca7-8434e3db39c4)
 
 ## Project Insight
-*The dashboard aggregates data from multiple sources, including retail and restaurant sales, categorized by annual sales and non-commercial opportunities.
-*Key metrics such as Total Sales, Average Percentage, Total Restaurants, Beverage and Food Purchases, and the total number of states covered are highlighted at the top, providing a quick overview of the business's overall performance.
+* The dashboard aggregates data from multiple sources, including retail and restaurant sales, categorized by annual sales and non-commercial opportunities.
+* Key metrics such as Total Sales, Average Percentage, Total Restaurants, Beverage and Food Purchases, and the total number of states covered are highlighted at the top, providing a quick overview of the business's overall performance.
 
 
 

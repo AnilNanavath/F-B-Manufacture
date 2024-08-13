@@ -28,8 +28,11 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 * Utilized advanced parameters for drilling down into worksheets and applied customizations through filters and slicers. 
 
 ## Dashboard
-
 ![PowerBiDashboard](https://github.com/user-attachments/assets/9d54cce4-b86c-4f23-bca7-8434e3db39c4)
+
+## Project Insight
+*The dashboard aggregates data from multiple sources, including retail and restaurant sales, categorized by annual sales and non-commercial opportunities.
+
 
 
 

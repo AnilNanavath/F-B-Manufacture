@@ -23,7 +23,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 -	Retailers is a different business division and hence out of scope for me (Shaun), but some of my customers / prospects could be buying from these retailers – so getting a view of retailer presence adjacent to his customers & prospects will help understand how much of these opportunities are being met / unmet.
 -	I would like the analyses to be simple, intuitive as well as give me a picture at different levels of geographic granularity as well as by different business segments. In short, “it should the tell a story around where are our biggest opportunities”
 ## Process
-*
+* Created an interactive dashboard to display and explore sales opportunities for an F&B manufacturer across three distinct business segments on Retail,commercial,Restaurant
 
 ## Dashboard
 

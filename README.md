@@ -2,7 +2,7 @@
 ## Analysis-PowerBi-Project
 Developed an Interactive Dashboard for Food & Beverage Services (Opportunity Analysis for a Leading Food and Beverage Manufacturer)
 
-## Project Ojbective
+## Project Objective
 Our client, the Sales Director of a leading Food and Beverage Manufacturer, has requested a report that provides both hindsight and insight into his business using the provided datasets. Additionally, he is looking for the creation of an interactive dashboard to explore and analyze sales opportunities in non-commercial areas and adjacent retail locations, with the goal of expanding his F&B services.
 
 ## Case Statement

@@ -22,7 +22,7 @@ He jotted down a few bullets to convey what he has in mind as the charter for th
 -	What are the adjacent opportunities from the non-commercial establishments to additionally sell into (note that there are no customers currently in the non-commercial segment)
 -	Retailers is a different business division and hence out of scope for me (Shaun), but some of my customers / prospects could be buying from these retailers – so getting a view of retailer presence adjacent to his customers & prospects will help understand how much of these opportunities are being met / unmet.
 -	I would like the analyses to be simple, intuitive as well as give me a picture at different levels of geographic granularity as well as by different business segments. In short, “it should the tell a story around where are our biggest opportunities”
-
+## Dashboard
 ![PowerBiDashboard](https://github.com/user-attachments/assets/9d54cce4-b86c-4f23-bca7-8434e3db39c4)
 
 

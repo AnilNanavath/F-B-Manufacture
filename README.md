@@ -4,9 +4,7 @@ Developed an Interactive Dashboard for Food & Beverage Services (Opportunity Ana
 
 **Food_services.docx-EmbeddedFile**: 
 
-## Screenshots
-
-![App Screenshot](screenshots/Screenshot_2024-08-11_143057.png)
+![PowerBiDashboard](https://github.com/user-attachments/assets/9d54cce4-b86c-4f23-bca7-8434e3db39c4)
 
 
 
